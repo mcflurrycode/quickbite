@@ -1,0 +1,6 @@
+{
+  "name": "QuickBite - Mobile Food Delivery",
+  "description": "Vibrant and intuitive mobile food delivery app for students and young professionals with real-time order tracking and secure payment gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
